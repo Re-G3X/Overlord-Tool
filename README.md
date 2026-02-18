@@ -1,4 +1,7 @@
-#Instalação
+# Link para Tutorial
+https://www.youtube.com/playlist?list=PLPY-0In6XQ1s73zsz1Tcmu5T2hClxWTsR
+
+# Instalação
 
 Dentro do seu projeto na Unity, clique em Window/Janela e abra o Package Manager/Gerenciador de Pacotes:
 <img width="576" height="293" alt="image" src="https://github.com/user-attachments/assets/bce2fced-d51f-43c1-aea0-d15b5940c883" />

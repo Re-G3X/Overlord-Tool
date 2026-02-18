@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 617f5b6625849bb4f8b0cf953e3bc422, type: 3}
   m_Name: GeneticAlgorithmSettings
   m_EditorClassIdentifier: 
-  <TotalRunsOfEA>k__BackingField: 0
-  <Time>k__BackingField: 0
-  <Population>k__BackingField: 0
-  <Mutation>k__BackingField: 0
-  <Competitors>k__BackingField: 0
-  <MinimumElite>k__BackingField: 0
-  <AcceptableFitness>k__BackingField: 0
+  <TotalRunsOfEA>k__BackingField: 1
+  <Time>k__BackingField: 4
+  <Population>k__BackingField: 15
+  <Mutation>k__BackingField: 5
+  <Competitors>k__BackingField: 2
+  <MinimumElite>k__BackingField: 26
+  <AcceptableFitness>k__BackingField: 0.1

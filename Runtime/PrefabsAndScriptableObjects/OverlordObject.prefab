@@ -48,7 +48,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 46165342c895ebe4d9a1a878c9632375, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerProfileSO: {fileID: 11400000, guid: df4063952f9a1924fb3626d14de6cfee, type: 2}
+  playerProfileSO: {fileID: 11400000, guid: f52aa182bd19edb47b16ea28807d29a8, type: 2}
 --- !u!114 &3185488196629989491
 MonoBehaviour:
   m_ObjectHideFlags: 0

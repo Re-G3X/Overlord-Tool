@@ -54,5 +54,5 @@ MonoBehaviour:
     maxLimit: 10
     Min: 1
     Max: 4
-  MovementSet: {fileID: 0}
-  WeaponSet: {fileID: 0}
+  MovementSet: {fileID: 11400000, guid: 17d07313a71eeca47a7f84ccf38e736b, type: 2}
+  WeaponSet: {fileID: 11400000, guid: 40582db8bc08a4f4abd84b7e5aeb8b7e, type: 2}

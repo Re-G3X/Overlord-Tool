@@ -13,7 +13,9 @@ MonoBehaviour:
   m_Name: GenericNarrativeSettingsSO
   m_EditorClassIdentifier: 
   <PlaceholderNpcs>k__BackingField:
-  - {fileID: 0}
+  - {fileID: 11400000, guid: 4d15787e1dfb4a3489bcf4b268e17f87, type: 2}
+  - {fileID: 11400000, guid: c0fb335f101ad4643a0bc3cb8e74814e, type: 2}
+  - {fileID: 11400000, guid: dc925d1d91f0ed7449a06fe343a53ab4, type: 2}
   <PlaceholderItems>k__BackingField: {fileID: 11400000, guid: 4a00c83cedf8e5b46b53755a689e307f,
     type: 2}
   <Gemstones>k__BackingField: {fileID: 11400000, guid: 4a00c83cedf8e5b46b53755a689e307f,

@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4339c878b4dbef14baedf53af47d5110, type: 3}
   m_Name: GENERIC List of Movements
   m_EditorClassIdentifier: 
-  _enemyMovements: 
+  _enemyMovements: 00000000010000000200000003000000040000000500000006000000

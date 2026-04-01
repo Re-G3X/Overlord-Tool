@@ -13,43 +13,43 @@ MonoBehaviour:
   m_Name: TopdownSearchSpaceSO
   m_EditorClassIdentifier: 
   Status1:
-    statusName: Status1
+    statusName: Health
     minLimit: 0.1
     maxLimit: 10
     Min: 2
     Max: 7
   Status2:
-    statusName: Status2
+    statusName: Damage
     minLimit: 0.1
     maxLimit: 10
     Min: 2
     Max: 5
   Status3:
-    statusName: Status3
+    statusName: MoveSpeed
     minLimit: 0.1
     maxLimit: 10
     Min: 0.75
     Max: 4
   Status4:
-    statusName: Status4
+    statusName: ActiveTime
     minLimit: 0.1
     maxLimit: 10
     Min: 0.8
     Max: 3.2
   Status5:
-    statusName: Status5
+    statusName: RestTime
     minLimit: 0.1
     maxLimit: 10
     Min: 1.5
     Max: 10
   Status6:
-    statusName: Status6
+    statusName: AttackSpeed
     minLimit: 0.1
     maxLimit: 10
     Min: 0.3
     Max: 1.5
   WeaponStatus1:
-    statusName: WeaponStatus1
+    statusName: ProjSpeed
     minLimit: 0.1
     maxLimit: 10
     Min: 1
